@@ -1,0 +1,11 @@
+{
+  "name": "bird_count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node backend/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
